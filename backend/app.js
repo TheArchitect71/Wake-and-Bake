@@ -10,7 +10,7 @@ const app = express();
 
 mongoose
   .connect(
-    `mongodb+srv://theArchitect71:${process.env.MONGO_ATLAS_PW}@cluster0-jsigs.mongodb.net/Wake&Bake?retryWrites=true`, { useNewUrlParser: true }
+    `mongodb+srv://theArchitect71:${process.env.MONGO_ATLAS_PW}@cluster0-jsigs.mongodb.net/40-EridaniDatabase?retryWrites=true`, { useNewUrlParser: true }
   )
   .then(() => {
     console.log("Connected to database!");
