@@ -1,4 +1,4 @@
-# MEAN Stack Web Application
+# 40-Eridani Web Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
